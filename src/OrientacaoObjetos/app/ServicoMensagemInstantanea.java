@@ -1,4 +1,4 @@
-package exercicio3.app;
+package OrientacaoObjetos.app;
 
 public abstract class ServicoMensagemInstantanea {
     public abstract void enviarMensagem();

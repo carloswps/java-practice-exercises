@@ -1,9 +1,9 @@
-package exercicio3;
+package OrientacaoObjetos;
 
-import exercicio3.app.FacebookMessenger;
-import exercicio3.app.MSNMesseger;
-import exercicio3.app.ServicoMensagemInstantanea;
-import exercicio3.app.Telegram;
+import OrientacaoObjetos.app.FacebookMessenger;
+import OrientacaoObjetos.app.MSNMesseger;
+import OrientacaoObjetos.app.ServicoMensagemInstantanea;
+import OrientacaoObjetos.app.Telegram;
 
 public class ComputadorJoaquim {
     public static void main(String[] args) {

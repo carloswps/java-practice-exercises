@@ -1,17 +1,16 @@
-package exercicio3.app;
+package OrientacaoObjetos.app;
 
-public class MSNMesseger extends ServicoMensagemInstantanea {
+public class Telegram extends ServicoMensagemInstantanea {
     @Override
     public void enviarMensagem() {
         validarConectarInternet();
         // TODO Auto-generated method stub
-        System.out.println("Enviando mensagem pelo MSNMesseger");
+        System.out.println("Enviando mensagem pelo Telegram");
     }
 
     @Override
     public void recerMensagem() {
         // TODO Auto-generated method stub
-        System.out.println("Recebendo mensagem pelo MSNMesseger");
+        System.out.println("Recebendo mensagem pelo Telegram");
     }
-   
 }

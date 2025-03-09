@@ -1,4 +1,4 @@
-package exercicio2;
+package Scanner;
 import java.util.Scanner;
 
 public class SimulacaoBancaria {

@@ -1,4 +1,4 @@
-package exercicio3.app;
+package OrientacaoObjetos.app;
 
 public class FacebookMessenger extends ServicoMensagemInstantanea {
     @Override
